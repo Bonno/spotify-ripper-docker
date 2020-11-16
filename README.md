@@ -1,4 +1,4 @@
-> A Debian Stretch (slim) image with python, pip, libspotify and spotify-ripper
+> A Debian BullsEye (slim) image with python, pip, libspotify and spotify-ripper from https://github.com/wolfmanx/spotify-ripper
 
 ## Prereqs
 1. Install Docker and make sure the Docker daemon is running.
